@@ -1,0 +1,17 @@
+.quiz-container {
+  width: 80%;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.question-container {
+  margin-bottom: 20px;
+}
+
+.timer-container {
+  margin-bottom: 20px;
+}
+
+.score-container {
+  margin-top: 20px;
+}
